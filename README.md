@@ -1,6 +1,6 @@
 # Option-order exchangeability reproduction
 
-This repository contains the compact analysis reproduction for manuscript v126. It reproduces the retained appendix tables and numerical inputs to the paper's figures from compact data.
+This repository contains the compact analysis reproduction and reproduces the retained appendix tables and numerical inputs to the paper's figures from compact data.
 
 Run:
 
